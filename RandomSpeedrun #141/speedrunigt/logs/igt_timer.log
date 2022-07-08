@@ -1,0 +1,66 @@
+No   IGT            Start RTA      End RTA        Length     Retime?    Reason / Notice
+1    00:01.668      00:01.581      00:07.008      5.427      5.427      Paused by player, Unpause by player
+2    00:12.218      00:17.606      00:33.627      16.021     11.021     Paused by player, Unpause by player / changed option
+3    01:25.418      01:46.804      01:50.730      3.926      3.926      Paused by player, Unpause by player
+4    06:20.768      06:46.077      06:49.007      2.930                 Paused by player, Unpause by player / changed option
+5    08:14.168      08:43.124      08:56.064      12.940     7.940      Paused by player, Unpause by player / changed option
+6    08:57.118      09:38.986      09:42.753      3.767                 Paused by player, Unpause by player / changed option
+7    08:58.368      09:43.997      09:46.088      2.091                 Paused by changed dimension, Unpause by rendered
+8    09:02.208      09:49.950      09:56.401      6.451      6.451      Paused by player, Unpause by player
+9    09:05.008      09:59.220      10:03.898      4.678                 Paused by player, Unpause by player / changed option
+10   09:06.458      10:05.372      10:07.275      1.903      1.903      Paused by player, Unpause by player
+11   09:09.908      10:10.722      10:14.435      3.713                 Paused by player, Unpause by player / changed option
+12   09:12.758      10:17.296      10:18.461      1.165      1.165      Paused by player, Unpause by player
+13   09:13.158      10:18.838      10:19.163      0.325      0.325      Paused by player, Unpause by player
+14   09:20.308      10:26.322      10:29.917      3.595                 Paused by player, Unpause by player / changed option
+15   09:42.458      10:52.134      10:53.878      1.744      1.744      Paused by player, Unpause by player
+16   10:45.408      11:56.809      12:03.809      7.000      2.000      Paused by player, Unpause by player / changed option
+17   26:15.608      27:33.972      27:37.898      3.926                 Paused by player, Unpause by player / changed option
+18   26:16.608      27:38.891      27:41.830      2.939                 Paused by player, Unpause by player / changed option
+0    26:17.558      27:42.774      28:54.278      71.504                Paused by player, Unpause by rendered
+1    26:19.809      28:56.556      29:00.547      3.991                 Paused by player, Unpause by player / changed option
+2    26:21.059      29:01.806      29:05.015      3.209                 Paused by player, Unpause by player / changed option
+3    26:24.509      29:08.540      29:11.713      3.173                 Paused by player, Unpause by player / changed option
+4    26:27.409      29:14.636      29:19.805      5.169      0.169      Paused by player, Unpause by player / changed option
+0    26:29.009      29:21.428      29:44.624      23.196                Paused by player, Unpause by rendered
+1    28:03.651      31:19.307      31:24.269      4.962                 Paused by player, Unpause by player / changed option
+2    30:34.051      33:55.068      33:58.823      3.755                 Paused by player, Unpause by player / changed option
+0    30:34.251      33:59.025      34:11.285      12.260                Paused by player, Unpause by rendered
+1    30:37.844      34:14.931      34:15.230      0.299      0.299      Paused by player, Unpause by player
+2    30:38.294      34:15.675      34:20.032      4.357                 Paused by player, Unpause by player / changed option
+3    30:39.744      34:21.490      34:25.390      3.900                 Paused by player, Unpause by player / changed option
+0    30:41.394      34:27.039      34:48.299      21.260                Paused by player, Unpause by rendered
+1    32:36.445      36:43.379      36:46.850      3.471                 Paused by player, Unpause by player / changed option
+2    35:30.145      39:40.557      39:44.779      4.222                 Paused by changed dimension, Unpause by rendered
+3    35:32.339      39:46.989      41:24.535      97.546     97.546     Paused by player, Unpause by player
+4    36:18.789      42:10.990      42:18.469      7.479      2.479      Paused by player, Unpause by player / changed option
+5    36:19.239      42:18.929      42:19.559      0.630      0.630      Paused by player, Unpause by player
+6    36:19.439      42:19.719      42:20.174      0.455      0.455      Paused by player, Unpause by player
+7    36:19.639      42:20.371      42:22.928      2.557      2.557      Paused by player, Unpause by player
+8    36:21.139      42:24.425      42:27.334      2.909                 Paused by player, Unpause by player / changed option
+9    36:33.189      42:39.393      42:41.063      1.670                 Paused by player, Unpause by player / changed option
+10   36:35.239      42:43.122      42:48.021      4.899                 Paused by player, Unpause by player / changed option
+11   37:11.039      43:23.840      43:28.113      4.273                 Paused by player, Unpause by player / changed option
+12   37:14.789      43:32.927      43:33.729      0.802      0.802      Paused by player, Unpause by player
+13   37:37.839      43:56.783      44:03.181      6.398      1.398      Paused by player, Unpause by player / changed option
+14   37:43.589      44:08.964      44:11.224      2.260                 Paused by player, Unpause by player / changed option
+15   37:45.089      44:12.716      44:15.301      2.585                 Paused by player, Unpause by player / changed option
+16   38:59.839      45:30.026      45:31.803      1.777                 Paused by player, Unpause by player / changed option
+17   39:02.239      45:34.221      45:36.574      2.353                 Paused by player, Unpause by player / changed option
+18   41:24.239      47:58.602      48:00.038      1.436                 Paused by player, Unpause by player / changed option
+19   41:26.039      48:01.796      48:03.063      1.267                 Paused by player, Unpause by player / changed option
+20   42:07.489      48:44.546      48:46.168      1.622                 Paused by player, Unpause by player / changed option
+21   42:11.989      48:50.640      48:52.108      1.468                 Paused by player, Unpause by player / changed option
+22   43:13.789      49:53.875      49:55.948      2.073                 Paused by player, Unpause by player / changed option
+23   43:15.339      49:57.493      49:59.490      1.997                 Paused by player, Unpause by player / changed option
+24   48:05.239      54:49.433      54:53.509      4.076                 Paused by changed dimension, Unpause by rendered
+25   48:18.164      55:06.460      55:09.393      2.933                 Paused by player, Unpause by player / changed option
+26   48:18.214      55:09.996      55:10.872      0.876      0.876      Paused by player, Unpause by player
+27   48:50.014      55:42.660      55:46.557      3.897                 Paused by player, Unpause by player / changed option
+28   49:04.164      56:01.035      56:04.708      3.673                 Paused by player, Unpause by player / changed option
+====================
+Result > IGT: 50:06.761, RTA: 57:07.897, Counted Ticks: 60136, Total Ticks: 60569
+First Input: IGT 00:00.118 (+ 39ms), RTA 00:00.074
+MC Version : 1.19
+Timer Version : 10.12+1.19
+Run Date : 22.07.08 16:10:04
